@@ -1,6 +1,7 @@
 
 # 💫 About Me:
-<sub>
+<p>
+<small>
 🛰️ I’m currently working on<br>
 Running ethical penetration tests against my lab environment and responsible bug bounties — automated reconnaissance, fuzzing APIs, and hardening CI/CD pipelines.<br><br>
 
@@ -20,7 +21,9 @@ Responsible disclosure, threat modeling, secure coding practices, bug bounty str
 I once found a low-risk misconfiguration in a demo app and turned it into a company-wide fix — no data exposed, just a reminder that security is a team sport.<br><br>
 
 — always hacking with a badge: find, fix, and disclose responsibly.
-</sub>
+</small>
+</p>
+
 
 
 
