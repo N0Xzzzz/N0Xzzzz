@@ -1,27 +1,27 @@
 
-# 💫 About Me
 # 💫 About Me:
 <sub>
-🛰️ I’m currently working on  
-Running ethical penetration tests against my lab environment and responsible bug bounties — automated reconnaissance, fuzzing APIs, and hardening CI/CD pipelines.  
+🛰️ I’m currently working on<br>
+Running ethical penetration tests against my lab environment and responsible bug bounties — automated reconnaissance, fuzzing APIs, and hardening CI/CD pipelines.<br><br>
 
-🤝 I’m looking to collaborate on  
-Blue-team/Red-team exercises, open-source security tooling, secure-by-design developer workflows, and coordinated disclosure programs.  
+🤝 I’m looking to collaborate on<br>
+Blue-team/Red-team exercises, open-source security tooling, secure-by-design developer workflows, and coordinated disclosure programs.<br><br>
 
-🆘 I’m looking for help with  
-Scaling safe fuzzing for large codebases, integrating SAST/DAST into microservices, and automating triage for noisy vuln reports.  
+🆘 I’m looking for help with<br>
+Scaling safe fuzzing for large codebases, integrating SAST/DAST into microservices, and automating triage for noisy vuln reports.<br><br>
 
-🌱 I’m currently learning  
-Adversary emulation at scale, cloud-native threat modeling (IAM, KMS, container escape mitigation), and safe exploit development for research only.  
+🌱 I’m currently learning<br>
+Adversary emulation at scale, cloud-native threat modeling (IAM, KMS, container escape mitigation), and safe exploit development for research only.<br><br>
 
-💬 Ask me about  
-Responsible disclosure, threat modeling, secure coding practices, bug bounty strategy, log engineering, and how to set up a private pentest lab.  
+💬 Ask me about<br>
+Responsible disclosure, threat modeling, secure coding practices, bug bounty strategy, log engineering, and how to set up a private pentest lab.<br><br>
 
-⚡ Fun fact  
-I once found a low-risk misconfiguration in a demo app and turned it into a company-wide fix — no data exposed, just a reminder that security is a team sport.  
+⚡ Fun fact<br>
+I once found a low-risk misconfiguration in a demo app and turned it into a company-wide fix — no data exposed, just a reminder that security is a team sport.<br><br>
 
 — always hacking with a badge: find, fix, and disclose responsibly.
 </sub>
+
 
 
 
